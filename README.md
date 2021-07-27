@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahriar Saleh Fahim</h1>
-<h3 align="center">React.js is my first love ❤️❤️❤️</h3>
+<h3 align="center">React.js Enthusiast ❤️❤️❤️</h3>
 
-- 🌱 I’m currently learning **Gatsby.js**
+- 🌱 I’m currently learning **TypeScript**
 
-- 📚 I’m currently completing **Bachelor's Degree in CS from BRAC University (4th Year)**
+- 📚 I’ve completed **Bachelor's Degree in CS from BRAC University**
 
 - 🥅 Goals in 2021 **React Native, Next.js**
 
