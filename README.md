@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shahriarfahim.web.app/)**
 
-- 📫 How to reach me **shahriarFahim@gmail.com**
+- 📫 How to reach me **shahriarfahim19@gmail.com**
 
 - ⚡ Fun fact **I play lots of video games 🎮**
 
