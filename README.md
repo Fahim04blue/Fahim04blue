@@ -1,26 +1,80 @@
-<h1 align="center">Hi 👋, I'm Shahriar Saleh Fahim</h1>
-<h3 align="center">React.js Enthusiast ❤️❤️❤️</h3>
+<p align="center"><img width="500px" height="auto" src="https://i.imgur.com/5AxnaBV.gif" /></p>
 
-- 🌱 I’m currently learning **TypeScript**
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Shahriar Saleh Fahim</h1>
+<h3 align="center">I'm a passionate FrontEnd Developer from Bangladesh.</h3>
+
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Node JS**
 
 - 📚 I’ve completed **Bachelor's Degree in CS from BRAC University**
 
-- 🥅 Goals in 2021 **React Native, Next.js**
+- 🥅 Goals in 2021 **React Native**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shahriarfahim.web.app/)**
+
+- 📫 How to reach me **shahriarFahim@gmail.com**
 
 - ⚡ Fun fact **I play lots of video games 🎮**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/fahim04blue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fahim04blue" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shahriarfahim04/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahriarfahim04" height="30" width="40" /></a>
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"/> </a> 
+    <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a> 
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-### [My Resume](https://drive.google.com/file/d/1oc8YRiCByV9d7zW6wu4962ks3DjzK85O/view?usp=sharing)
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+    <a href="https://github.com/Fahim04blue/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahriar Saleh Fahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahim04blue&theme=tokyonight&hide_border=true&stroke=0000"/>
+    </a>
+</p>
 
+## 📊 My Github Stats
 
-<img src='https://github-readme-stats.vercel.app/api?username=Fahim04blue&&show_icons=true&theme=blueberry'>
+  <br/>
+    <a href="https://github.com/Fahim04blue/github-readme-stats"><img alt="Shahriar Saleh Fahim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fahim04blue&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Fahim04blue/github-readme-stats"><img alt="Shahriar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim04blue&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<img  width='490' height='400' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim04blue&theme=vue-dark' >
+<br/>
+<br/>
+
+<a href="https://github.com/Fahim04blue/github-readme-activity-graph"><img alt="Shahriar Saleh Fahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fahim04blue&theme=xcode&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/shahriarfahim04/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://dev.to/fahim04blue"><img src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg"/></a>
+
+</p>
+
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Fahim04blue">
+</a>
+<a href="https://github.com/Fahim04blue?tab=followers"><img src="https://img.shields.io/github/followers/Fahim04blue?label=Followers&style=social" alt="GitHub Badge"></a>
