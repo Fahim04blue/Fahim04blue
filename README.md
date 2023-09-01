@@ -5,17 +5,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Node JS**
+- 👨‍💻 I’m currently working as a Software Engineer at SSL Wireless
 
 - 📚 I’ve completed **Bachelor's Degree in CS from BRAC University**
 
-- 🥅 Goals in 2021 **React Native**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shahriarfahim.web.app/)**
-
-- 📫 How to reach me **shahriarfahim19@gmail.com**
-
 - ⚡ Fun fact **I play lots of video games 🎮**
+
+## 📧 How to Reach me
+- Email: **shahriarfahim19@gmail.com**
+- LinkedIn: **[shahriarfahim04](https://www.linkedin.com/in/shahriarfahim04/)**
+
+## 📄 My CV/Resume
+
+- **[Google Drive](https://drive.google.com/file/d/1oc8YRiCByV9d7zW6wu4962ks3DjzK85O/view?usp=sharing)**
 
 ## 🚀 Languages and Tools:
 
